@@ -10,7 +10,7 @@ Blender Slides or BSlides is a easy extension that does not compromise any exist
 3. Select downloaded .zip file
 
 ## Features
-_For examples and usage, please refer to the [Wiki](https://github.com/ronaldte/blender_slides/wiki/Manual)._
+_For examples and usage, please refer to the [Manual.pdf](https://github.com/ronaldte/BSlides/blob/main/Manual.pdf)._
 
 - Switching slides, running slideshow with control panel via EEVEE realtime render
 - Creating and deleting slides, hiding from render, change slide ratio and background color
